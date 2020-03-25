@@ -1,0 +1,13 @@
+{
+    "name": "AtividadesComplementares",
+    "alias": "atividadescomplementares",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\AtividadesComplementares\\Providers\\AtividadesComplementaresServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
